@@ -1,0 +1,142 @@
+    1  mkdir latian-git
+    2  cd latian-git
+    3  sudo install gh
+    4  sudo apt install gh
+    5  sudo eopkg install gh
+    6  apt
+    7  clear
+    8  apt install gh
+    9  sudo apt install gh
+   10  wget https://github.com/cli/cli/releases/download/v1.14.0/gh_1.14.0_linux_amd64.deb
+   11  wget https://github.com/cli/cli/releases/download/v1.14.0/gh_1.14.0_linux_amd
+   12  sudo apt update
+   13  mkdir latihan-git
+   14  1s
+   15  mkdir latiahan=git
+   16  sudo apt update
+   17  sudo apt instal chromium-browser
+   18  ls
+   19  sudo apt update
+   20  ls
+   21  sudo apt update
+   22  sudo apt upgrade
+   23  sudo apt install neofetch
+   24  ls
+   25  mkdir agustian
+   26  ls
+   27  cd agustian
+   28  nano biodata.txt
+   29  cat biodata.txt
+   30  cd..
+   31  cd
+   32  git --v
+   33  git --version
+   34  mkdir latihan-git1
+   35  ls
+   36  sudo install gh
+   37  apt install gh
+   38  sudo apt install gh
+   39  snap install gh
+   40  sudo snap install gh
+   41  gh --version
+   42  sudo su
+   43  ls
+   44  cd
+   45  cd snap
+   46  cd
+   47  sudo su
+   48  ls
+   49  sudo apt instll wsl
+   50  sudo apt install wsl
+   51  ls
+   52  google-chrome
+   53  sudo apt install gdebi-core wget
+   54  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   55  sudo gdebi google-chrome-stable_current_amd64.deb
+   56  sudo google-chrome-stable_current_amd64.deb
+   57  sudo gdebi google-chrome-stable_current_amd64.deb
+   58  neofetch
+   59  sudo su
+   60  ls
+   61  cd
+   62  google-chrome
+   63  ls
+   64  rmdir -r google-chrome-stable_current_amd64.deb.2
+   65  rmdir google-chrome-stable_current_amd64.deb.2
+   66  ls
+   67  rmdir google-chrome-stable_current_amd64.deb.2
+   68  -f
+   69  -f google-chrome-stable_current_amd64.deb.2
+   70  sudo gdebi google-chrome-stable_current_amd64.deb
+   71  ls
+   72  rm google-chrome-stable_current_amd64.deb.2
+   73  ls
+   74  agustian
+   75  sudo apt update
+   76  sudo apt upgrade
+   77  wsl --unregister Ubuntu
+   78  wsl -unregister Ubuntu
+   79  wsl--unregister Ubuntu
+   80  sudo apt update
+   81  sudo apt upgrade
+   82  sudo apt install neofecth
+   83  sudo apt install git
+   84  mkdir folder 1
+   85  ls
+   86  mkdir folder1
+   87  ls
+   88  cd folder1
+   89  cd folder1/
+   90  ls
+   91  nano biodata.txt
+   92  wsl --unregister Ubuntu
+   93  ls
+   94  google-chrome
+   95  cat biodata.txt
+   96  wsl --unregister Ubuntu
+   97  wsl --unregister ubuntu
+   98  ls
+   99  sudo apt install wsl
+  100  wsl --unregister Ubuntu
+  101  wsl --list
+  102  wsl --unregister Ubuntu
+  103  wsl --unregister
+  104  wsl --unregister Ubuntu
+  105  sudo apt install curl
+  106  curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+  107  nvm --v
+  108  nvm -v
+  109  apt install nvm
+  110  sudo apt install nvm
+  111  nvm --version
+  112  sudo apt install curl
+  113  curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh
+  114  ls
+  115  cd /
+  116  ls
+  117  cd home
+  118  ls
+  119  cd agustian
+  120  ls
+  121  curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh
+  122  ls
+  123  nvm --version
+  124  source ~/.bashrc
+  125  ls
+  126  cd snap
+  127  ls
+  128  cd ../
+  129  nvm --version
+  130  nvm install --lts
+  131  nvm --v
+  132  nvm install v14.15.4
+  133  node -v
+  134  clear
+  135  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+  136  ls
+  137  cd uas-komdat-24/
+  138  ls
+  139  code .
+  140  npm install
+  141  npm run start
+  142  history > command-history.txt
